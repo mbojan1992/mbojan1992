@@ -1,0 +1,6 @@
+- Hi, I’m Bojan Markovic.
+- I’m interested in automation testing.
+- I’m finished course for QA Tester in Code by Comtrade.
+- I’m working as QA Sofrware Manual and Automation Tester.
+- I’m currently learning Sypress.
+- You can contact me on mbojan1992@gmail.com.
